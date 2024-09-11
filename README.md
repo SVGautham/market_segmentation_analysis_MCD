@@ -28,8 +28,13 @@ Visualization:
 Generate various plots including the PCA projection, cluster distributions, hierarchical clustering dendrogram, and the relationship between customer age and satisfaction.
 # Key Libraries Used
 pandas: For data manipulation and preprocessing.
+
 numpy: For numerical operations.
+
 scikit-learn: For PCA, K-Means clustering, and preprocessing.
+
 scipy: For hierarchical clustering and dendrogram visualization.
+
 matplotlib: For data visualization.
+
 statsmodels: For logistic regression modeling.
