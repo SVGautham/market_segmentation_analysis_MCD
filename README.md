@@ -1,7 +1,7 @@
 # market_segmentation_analysis_MCD
 This repository contains a Python-based implementation of a customer segmentation analysis for McDonald's, which was originally written in R. The analysis includes data preprocessing, dimensionality reduction using PCA, clustering, and logistic regression to explore and segment customer preferences based on survey responses.
 
-#Overview
+# Overview
 The project is designed to achieve the following:
 
 Data Preprocessing:
@@ -26,7 +26,7 @@ Predict cluster memberships and visualize the results.
 Visualization:
 
 Generate various plots including the PCA projection, cluster distributions, hierarchical clustering dendrogram, and the relationship between customer age and satisfaction.
-#Key Libraries Used
+# Key Libraries Used
 pandas: For data manipulation and preprocessing.
 numpy: For numerical operations.
 scikit-learn: For PCA, K-Means clustering, and preprocessing.
